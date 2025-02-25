@@ -1,0 +1,13 @@
+body{
+  background-image: url(images.jpeg);
+}
+h1{
+    color:bisque !important;
+    background-color: #a3c5cc;
+    text-align: center;
+
+}
+p{
+    font-size: 150%;
+    background-color: aqua;
+}
